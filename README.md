@@ -1,2 +1,2 @@
-# Cafe-
+# Cafe
 YaYa Cafe
